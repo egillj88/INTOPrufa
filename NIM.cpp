@@ -105,7 +105,7 @@ void hjalp( )
 	cout << "einni hrugu i einu.  Sa sem tekur sidustu eldspytuna " << endl;
 	cout << "ur sidustu hrugunni vinnur.  Gangi ykkur vel! " << endl << endl;
 	cout << "Sladu a einhvern lykil... " << endl;
-	cout << "Egill Jónsson"
+	cout << "Egill Jónsson og Ragna Ellertsdottir"
 	getchar( );
 }
 
