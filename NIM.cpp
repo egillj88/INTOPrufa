@@ -54,6 +54,7 @@ int main( )
 		}
 	}
 	while ( val != 3 );
+	
 
 	return 0;
 }
@@ -105,7 +106,8 @@ void hjalp( )
 	cout << "einni hrugu i einu.  Sa sem tekur sidustu eldspytuna " << endl;
 	cout << "ur sidustu hrugunni vinnur.  Gangi ykkur vel! " << endl << endl;
 	cout << "Sladu a einhvern lykil... " << endl;
-	cout << "Egill Jónsson og Ragna Ellertsdottir"
+	cout << "Egill Jonsson"<<endl;
+	cout << "Linda Maria Karlsdottir" << endl;
 	getchar( );
 }
 
